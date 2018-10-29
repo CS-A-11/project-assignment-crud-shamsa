@@ -11,7 +11,12 @@ Looking for wifi and a seat? Loc8r helps you find places to work when out and ab
 
 ## UseCases: 
 1. User can view a list of locations (https://loc8rdemo-2018.herokuapp.com)
-2. User can click on location name to view location details like openeing hours, facilities and customer reviews (http://localhost:3000/location/5bc0734d789815a59e0fac27)
+2. User can click on location name to view location details like opening hours, facilities and customer reviews (http://localhost:3000/location/5bc0734d789815a59e0fac27)
 3. User can add a review (http://localhost:3000/location/5bc0734d789815a59e0fac27/review/new)
 
+## Schema: 
+Documents: locations
+Sub-docuemnts: reviews, openingTimes
+
+locations has nested reviews and openingTimes
 
