@@ -18,7 +18,7 @@ Looking for wifi and a seat? Loc8r helps you find places to work when out and ab
 ## Schema: 
 Collections: locations
 
-Nested Colelctions: reviews, openingTimes
+Nested Collections: reviews, openingTimes
 
 locations has nested reviews and openingTimes
 
