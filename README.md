@@ -2,6 +2,7 @@
 
 ## Project Group Members:
 Simon Holmes Roll No. -------
+
 Shamsa Abid  Roll No. -------
 
 ## About Loc8r:
@@ -15,8 +16,9 @@ Looking for wifi and a seat? Loc8r helps you find places to work when out and ab
 3. User can add a review (http://localhost:3000/location/5bc0734d789815a59e0fac27/review/new)
 
 ## Schema: 
-Documents: locations
-Sub-documents: reviews, openingTimes
+Collections: locations
+
+Nested Colelctions: reviews, openingTimes
 
 locations has nested reviews and openingTimes
 
