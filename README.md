@@ -1,4 +1,5 @@
-# Project Title: Loc8r: Find places to work with wifi near you!
+## Project Title: 
+Loc8r: Find places to work with wifi near you!
 
 ## Project Group Members:
 Simon Holmes Roll No. -------
