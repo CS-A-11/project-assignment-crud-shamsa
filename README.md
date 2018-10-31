@@ -23,3 +23,22 @@ Nested Collections: reviews, openingTimes
 
 locations has nested reviews and openingTimes
 
+## Contribution:
+Simon Holmes: 
+1. Wrote the code for both front-end and back-end.
+2. Designed the schema
+3. Implemented usecases 1,2 and 3
+4. Designed and coded the views
+5. Implemented back-end error and exception handling for all use cases
+6. Implemented front-end input form validations for all the views
+
+Shamsa Abid:
+1. Altered usecase 1 to display locations from the database rather than using the geo-location service
+
+## Future Work
+
+Shamsa Abid:
+1. Allowing a user to login and logout, (adding session management and authentication)
+2. Allowing only logged in users to "add a review"
+3. Restricting users to edit their own reviews. 
+
